@@ -19,7 +19,6 @@
                 {{ $error }}
             </div>
         </div>
-
         @endif
         <div class="row align-items-center g-lg-5 py-5">
             <div class="col-lg-7 text-center text-lg-start">
